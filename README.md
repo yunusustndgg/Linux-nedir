@@ -9,4 +9,4 @@ Açık kaynak kodlu olan linux'u Helsinki Üniversite öğrencisi olan "Linus To
 
 
 # Diğer işletim sistemlerinden farkı nedir?
-Açık kaynak kodlu olmasından dolayı kaynak kodlarına erişebilir ve kendi linux dağıtımınızı geliştirebilirsiniz bknz: <a href="https://www.kernel.org/">kernel.org</a>.
+Açık kaynak kodlu olmasından dolayı kaynak kodlarına erişebilir ve kendi linux dağıtımınızı geliştirebilirsiniz bknz: kernel.org
