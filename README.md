@@ -9,4 +9,11 @@ Açık kaynak kodlu olan linux'u Helsinki Üniversite öğrencisi olan "Linus To
 
 
 # Diğer işletim sistemlerinden farkı nedir?
-Açık kaynak kodlu olmasından dolayı kaynak kodlarına erişebilir ve kendi linux dağıtımınızı geliştirebilirsiniz bknz: kernel.org
+Açık kaynak kodlu olmasından dolayı kaynak kodlarına erişebilir ve kendi linux dağıtımınızı geliştirebilirsiniz bknz: <a href="https://www.kernel.org/">kernel.org</a>.
+Bir diğer farkı bir çok dağıtımı bulunmasıdır;
+Bir hacker mısın? senin için Kali linux veyahut Parrot OS var,
+Normal bir kullanıcı mısın? Senin için Linux Mint, Manjaro'muz var.
+Yerli ve Milli bir linux mu istiyorsun? TÜBİTAK'ın Türk yazılımcıları tarafından geliştirilen Pardus var hatta yeni sürümleri çıkmaya devam ediyor
+
+
+# Bu ve bunun gibi bilgilerin devamı için instagram adresim : <a href="https://www.instagram.com/yunusemreyazilim/">@yunusemreyazilim</a>
